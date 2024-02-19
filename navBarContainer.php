@@ -26,6 +26,9 @@
             <div class="navItem">
                 <span onclick="openPage('settings.php');" class="navItemLink"><?php echo $userLoggedIn->getName(); ?></span>
             </div>
+            <div class="navItem">
+                <span onclick="openPage('feedback.php');" class="navItemLink">Feedback</span>
+            </div>
         </div>
     </nav>
 </div>
