@@ -15,7 +15,7 @@ projects.
 * [MySQL] - Relational DB
 * [XAMPP] - Web Server
 
-##Features
+## Features
 
 We have created an online marketplace for songs, beats and music productions for music lovers. Artists can find songs according to their genre,style
 based on listings provided. They can also provide feedback based on songs given in playlist section. This gives produces and artists a medium to 
