@@ -1,4 +1,4 @@
-##BeatMarket
+## BeatMarket
 BeatMarket is an online marketplace designed for beat producers
 to showcase and sell their music productions, while providing
 artists with a diverse selection of high-quality beats for their
